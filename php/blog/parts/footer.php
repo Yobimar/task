@@ -1,0 +1,1 @@
+  <p><small>2016 © Yobi Kim All Rights Reserved.</small></p>
